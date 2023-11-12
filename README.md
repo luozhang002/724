@@ -1,2 +1,2 @@
 # 724
-724 project
+724 all project
